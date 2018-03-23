@@ -1,4 +1,4 @@
-## hello-world
-*_A learning exercise_*
+## Hello World
+_*A learning exercise*_
 
 Practicing Github and Markdown language.
